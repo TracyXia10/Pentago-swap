@@ -1,0 +1,14 @@
+# Server version 0.08 running on LAPTOP-BH7OU201:8123
+# Game ID: 24
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Apr 10 19:31:08 EDT 2019
+# Player 1: Player-0, 'Human', running on LAPTOP-BH7OU201
+# Player 2: Player-1, '260719721', running on LAPTOP-BH7OU201
+START Player-0 Human
+START Player-1 260719721
+1 4 TL TR 0
+4 4 TL BR 1
+GAMEOVER USER CANCEL UNDECIDED
+# Game ended: Wed Apr 10 19:31:12 EDT 2019

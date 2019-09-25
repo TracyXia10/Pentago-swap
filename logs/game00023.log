@@ -1,0 +1,33 @@
+# Server version 0.08 running on LAPTOP-BH7OU201:8123
+# Game ID: 23
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Apr 10 19:17:36 EDT 2019
+# Player 1: Player-0, '260719721', running on LAPTOP-BH7OU201
+# Player 2: Player-1, 'Human', running on LAPTOP-BH7OU201
+START Player-0 260719721
+START Player-1 Human
+4 4 TL BR 0
+4 1 BR TR 1
+4 4 TL BR 0
+1 4 TR BR 1
+0 0 TL TR 0
+3 0 TR BR 1
+0 0 TL TR 0
+0 0 TL BR 1
+0 1 TR BR 0
+2 2 TR BR 1
+0 2 TR BR 0
+3 4 TR BR 1
+0 5 TR BR 0
+2 5 TL BL 1
+0 1 TL BL 0
+3 2 TR BR 1
+1 0 TR BR 0
+2 3 TR BR 1
+5 2 TR BL 0
+4 2 BR TR 1
+0 4 TL TR 0
+GAMEOVER WINNER 1
+# Game ended: Wed Apr 10 19:19:32 EDT 2019
